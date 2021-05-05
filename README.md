@@ -15,6 +15,7 @@ In 2018, there were 2 out of the 12 green stocks that reported postive percent c
 ## VBA Scrpit 
 ### Orginal Code
 Within the project were we able to run two different type of VBA code. This first type of code was almost hard code. The code was looping through each cell and each row and each column and output the results within the loop. This is a slower type code because the code is outputting the results for each stock ticker... 12 times. Please see below for code times. 
+
 ![2017 Original Code Time](https://github.com/mccoycory/VBA-Challenge-/blob/main/Resources/Orginal%20Code%202018.PNG)
 
 ![2018 Original Code Time](https://github.com/mccoycory/VBA-Challenge-/blob/main/Resources/Timer%20Original%202017.PNG)
