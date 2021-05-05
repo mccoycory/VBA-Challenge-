@@ -31,3 +31,6 @@ During the refractor code, we were able to use the same concept of a for loop; h
 The advantage to the refractor code is the single out put array. This will maximize your time if you are looking for the same set of stocks. However, if you are looking at many different stocks and want to perform the same analysis the orginal code would probably be better because you do not need to "hard code" the array in your VBA code. You can simply import the data and click run. 
 
 I think it is always good to plot any stock against the S&P 500 and the specific industry sector return as well. This will help normalize the return on investment. Who knows, one might love green stocks but if the S&P 500 is giving the same amount of returns with less risk, I would put my money there. However, for these sets of stocks. I would invest in ENPH and RUN due to the year after year perforamce.
+
+#Citaion 
+I work with Cade Jackson on this project. He is in my study group. 
