@@ -4,15 +4,13 @@
 The purpose of this project was to create a VBA script that would quickly allow the user to run analysis based on the percent change of a stock price and the total trading volume with in a given year. The data set given to us was a list of 12 green energy stocks and were were given the year 2017 and 2018.
 # Results
 
-![2018 Green Stock Return](https://github.com/mccoycory/VBA-Challenge-/blob/main/Resources/Stock%20Anaylsis%202018.PNG)
-![2017 Green Stock Return](https://github.com/mccoycory/VBA-Challenge-/blob/main/Resources/Stock%20Analysis%202017.PNG)
-
 In 2017, 11 out of the 12 green stocks had a positive percent change. The stock that had a negative percent change in 2017 was ticker: TERP. Looking at this data set, it is easy to pick out that stock and further analysis could be done as to why this stock is performing poorly. 
 
 ![2017 Green Stock Return](https://github.com/mccoycory/VBA-Challenge-/blob/main/Resources/Stock%20Analysis%202017.PNG)
 
-
 In 2018, there were 2 out of the 12 green stocks that reported postive percent change. These two stocks were ENPH and RUN. Likewise with 2017, we could look into ENPH and RUN and determine why they performed well year after year. I would invent my money in those two stocks. 
+
+![2018 Green Stock Return](https://github.com/mccoycory/VBA-Challenge-/blob/main/Resources/Stock%20Anaylsis%202018.PNG)
 
 ## VBA Scrpit 
 ### Orginal Code
